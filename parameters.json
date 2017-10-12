@@ -6,7 +6,7 @@
             "value": "testsubnet"
         },
         "location": {
-            "value": "westus"
+            "value": "eastus"
         },
         "addressPrefix": {
             "value": "10.1.0.0/23"
